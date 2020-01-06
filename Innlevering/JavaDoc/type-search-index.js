@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"no.ntnu.candidate.exam","l":"Commands"},{"p":"no.ntnu.candidate.exam","l":"HearingAid"},{"p":"no.ntnu.candidate.exam","l":"HearingAidCentral"},{"p":"no.ntnu.candidate.exam","l":"InputHandler"},{"p":"no.ntnu.candidate.exam","l":"Main"},{"p":"no.ntnu.candidate.exam","l":"UserCommandHandeler"}]
